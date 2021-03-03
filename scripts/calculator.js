@@ -1,3 +1,3 @@
-const { CallTracker } = require("assert");
 
-window.calculator = new CalcController();
+
+let calculadora = new CalcController();
